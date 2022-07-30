@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    display: flex;
+    
+}
+
+.contain {
+   
+    width: 200rem;
+    
+}
+
+.list{
+background-color: rgba(128, 128, 128, 0.808);
+}
+
